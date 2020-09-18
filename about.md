@@ -1,18 +1,25 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Howdy! I am Edwin Zamudio.
 
-If you have a question about him or else, just send a letter to him.
+I am currently studying computer science as an undergraduate student @ Illinois Tech. I am actively seeking an internship where I can showcase my current skills. Also, where I can further expand my skills set as a software developer.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+I have 3+ years of programming experience in C and Java. I have been working towards reaching the same level of mastery in Python and JavaScript.
 
-**may u needs ✨**
+At a fundamental level, I am a fast learner and can adapt to any environment.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Here are a few technologies I can work with confidently:
+    .*Python
+    .*C/C++
+    .*Java
+    .*SQL
+
+You can [report](http://github.com/edwin-computer/issues/new) if there is an broken link(s) or somethings else.
+
+In 2018, I had recently finished highschool and I made a goal of making a website to blog about the different things I was doing. I didnt forget I just had more things going on. Luckily, I wrote most of these things down in a journal or the ol trusty notes app.

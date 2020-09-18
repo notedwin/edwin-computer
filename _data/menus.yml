@@ -2,13 +2,25 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
-  external: false
-
 - title: about
   url: /about/
   external: false # set true if you using external link, see below
+
+- title: tools
+  url: /tools/
+  external: false
+
+- title: services
+  url: /services/
+  external: false
+
+- title: guides
+  url: /guides/
+  external: false
+
+- title: resume
+  url: /resume.pdf
+  external: false
 
 # Example:
 # - title: github
