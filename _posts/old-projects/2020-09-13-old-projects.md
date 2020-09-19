@@ -1,6 +1,6 @@
 ---
 title: Old Projects.
-date: 2020-09-13 10:00:00 +07:00
+date: 2020-09-22 10:00:00 +07:00
 tags: [swag]
 description: not old
 ---
@@ -16,3 +16,16 @@ After that class, I realized i like making things for the web and designing layo
 
 It was a gatsby sites, i ultimately chose it because it offered great performance based on react and
 
+What i have been up to recently:
+Link to most recent update
+
+Pandemic sucks. Forced back home i felt like I was 18 again and that never feels good. Decided to get an appartment in the city with a couple roommates. Bought a bike. Started cooking more.
+
+While i was at home, I remodelled my room because my mom decided it would be fun. Binged Leetcode and project euler to learn python. Reignited my obession with privacy + freedom of speech and data after many police stations took down their case data. Tried running but my body is weak
+
+
+This website was made for as a final project for CS425: Database Organization. The store was required to include user authentication, payment authentication and stock management.
+Django
+PostgreSQL
+Stripe API
+Bootstrap

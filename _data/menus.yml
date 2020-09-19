@@ -13,10 +13,9 @@
 - title: services
   url: /services/
   external: false
-
-- title: guides
-  url: /guides/
-  external: false
+#- title: guides
+#  url: /guides/
+#  external: false
 
 - title: resume
   url: /resume.pdf
