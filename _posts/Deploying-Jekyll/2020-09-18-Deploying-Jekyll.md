@@ -20,7 +20,7 @@ Anyways, Jekyll >= Gatsby for now.
 
 Nginx and Jenkins
 ---------------------------------
-What is [nginx](https://www.nginx.com)?
+What is [nginx](https://www.nginx.com)?  
 -------------------------------------
 According to Nginx, Nginx Open Source is "software for web serving reverse proxing, caching, load balancing, media streaming, and more." 
 
