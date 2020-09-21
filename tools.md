@@ -25,4 +25,4 @@ Websites i check too often:
 
 music:
 I by no means have good music taste, but I like what I like.
-
+<iframe src="https://open.spotify.com/embed/playlist/2urvXa9EjKllAy2TZxFq16" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
