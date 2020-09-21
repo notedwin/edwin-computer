@@ -1,0 +1,35 @@
+---
+title: Remove DRM from PDF.
+date: 2020-09-21 10:00:00 +07:00
+tags: 
+description: DeDRM
+---
+
+Howdy again.
+
+One of my classes required a book from independant publisher.
+This independan publisher sold PDF for cheaper than the hard cover book.
+Gotta save all my pennies.
+
+I didnt have adobe digital editions on my linux device, nor did i want to download it.
+I asked my girlfriend to use her Mac to use abobe digital editions.
+I however at the time didnt know that you can only use adobe didgital editions on one device.
+
+Now I am in a sea of complexities.
+
+The catch is that I can only read it from adobe digital editions.
+How Dull.
+
+I decided to remove the DRM so I could read the book on any of my devces.
+
+Removing DRM isn't something easily found by a simple google search. 
+Nor is anything of practical value.
+I luckily found a tool to remove DRM from DeDRM.
+
+The tool uses python2 and relies on Adobe digital editions 2.0.
+I am not an expert in the tool.
+
+You have to generate the keys.
+
+
+I have a goal to modernize it but it is a very big library.
