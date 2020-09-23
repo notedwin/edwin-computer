@@ -5,40 +5,54 @@ tags: [DevOps]
 description: Messing around with DevOps production. 
 ---
 
-Old Website
+- [What about you Old Website](#what-about-you-old-website)
+- [New Website](#new-website)
+- [What is nginx](#what-is-nginx)
+- [What is Jenkins](#what-is-jenkins)
+- [Difficulties](#difficulties)
+- [Conclusion](#conclusion)
+
+What about you Old Website
 ---------------------
-For my old website, I used [Gatsby](https://www.gatsbyjs.com), which was easy to deploy thanks to [vercel](https://vercel.com).  
-Vercel took every commit I published for my website repository and magically created a production website.  
+
+For my old website, I used [Gatsby](https://www.gatsbyjs.com), which was easy to deploy thanks to [vercel](https://vercel.com).
+Vercel took every commit I published for my website repository and magically created a production website.
+I now know that Vercel just made Jenkin's as a service.
+
+![Old website](old_web.png)
 
 New Website
 ------------------------------------------------------
-I changed to Jekyll from GatsbyJS, as there was alot of overhead in making that website.  
-I know making a website should not be breeze but I also thought why am I making a complex website for a blog.
+
+I changed my website from using [Gatsby](https://www.gatsbyjs.com) to [Jekyll](https://www.jekyll.com). My reasoning behind it was there was alot of overhead in making that website.  
+I kept thinking why am I making a complex website for a blog.
 I don't have 1,000,000 hits a day nor do I have some sort of web store.  
 Ya feel me?  
 Anyways, Jekyll >= Gatsby for now.
+Enjoy the blog posts.
 
-Nginx and Jenkins
----------------------------------
-
-What is [nginx](https://www.nginx.com)?  
+What is [nginx](https://www.nginx.com)  
 ----------------------------------  
-According to Nginx, Nginx Open Source is "software for web serving reverse proxing, caching, load balancing, media streaming, and more." 
+
+According to Nginx, Nginx Open Source is "software for web serving reverse proxing, caching, load balancing, media streaming, and more."
 
 I primarily use Nginx as a web server for this [website](https://edwin.computer). It just listens to traffic from specific ports and redirects that traffic to the appropriate location.
 
-What is [Jenkins](https://www.jenkins.com)?
+What is [Jenkins](https://www.jenkins.com)
 -----------------------------
+
 From the Jenkin's website, "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project."
 
 I primarily use Jenkins to automate the process of deploying my website to my Nginx Server.  
-Using Jenkin, I can automate pulling my websites github repository and building the website when there is a new commit, reporting the build status back to github. That's pretty cool. 
+Using Jenkin, I can automate pulling my websites github repository and building the website when there is a new commit, reporting the build status back to github. That's pretty cool.
 
 Difficulties
 ------------------------------
-Nginx has great documentation. I was able to set up https with an SSL certificate from [CertBot](https://certbot.eff.org/). The process was simple. 
+
+Nginx has great documentation. I was able to set up https with an SSL certificate from [CertBot](https://certbot.eff.org/). The process was simple.
 Jenkins gave me much difficulties as the user interface is not very beginner friendly. At first, I couldn't get my project to even build. Once i got over the first struggles, it made alot of sense why things are laid out as such.
 
 Conclusion
 ------------------------------
-Google is your friend.
+
+Google is your friend. I will try to make these more like guides in the future.
