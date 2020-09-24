@@ -7,17 +7,17 @@ description: Messing around with DevOps production.
 
 - [What about you Old Website](#what-about-you-old-website)
 - [New Website](#new-website)
-- [What is nginx](#what-is-nginx)
+- [What is Nginx](#what-is-nginx)
 - [What is Jenkins](#what-is-jenkins)
-- [Difficulties](#difficulties)
+- [Other](#other)
 - [Conclusion](#conclusion)
 
 What about you Old Website
 ---------------------
 
-For my old website, I used [Gatsby](https://www.gatsbyjs.com), which was easy to deploy thanks to [vercel](https://vercel.com).
+For my old website, I used [Gatsby](https://www.gatsbyjs.com), which was easy to deploy thanks to [Vercel](https://vercel.com).
 Vercel took every commit I published for my website repository and magically created a production website.
-I now know that Vercel just made Jenkin's as a service.
+I now know that Vercel just made Jenkins as an online service.
 
 ![Old website](old_web.png)
 
@@ -31,7 +31,7 @@ Ya feel me?
 Anyways, Jekyll >= Gatsby for now.
 Enjoy the blog posts.
 
-What is [nginx](https://www.nginx.com)  
+What is [Nginx](https://www.nginx.com)  
 ----------------------------------  
 
 According to Nginx, Nginx Open Source is "software for web serving reverse proxing, caching, load balancing, media streaming, and more."
@@ -41,18 +41,18 @@ I primarily use Nginx as a web server for this [website](https://edwin.computer)
 What is [Jenkins](https://www.jenkins.com)
 -----------------------------
 
-From the Jenkin's website, "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project."
+From the Jenkins website, "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project."
 
 I primarily use Jenkins to automate the process of deploying my website to my Nginx Server.  
-Using Jenkin, I can automate pulling my websites github repository and building the website when there is a new commit, reporting the build status back to github. That's pretty cool.
+Using Jenkins, I can automate pulling my websites Github repository and building the website when there is a new commit, reporting the build status back to Github. That's pretty cool.
 
-Difficulties
+Other
 ------------------------------
 
-Nginx has great documentation. I was able to set up https with an SSL certificate from [CertBot](https://certbot.eff.org/). The process was simple.
-Jenkins gave me much difficulties as the user interface is not very beginner friendly. At first, I couldn't get my project to even build. Once i got over the first struggles, it made alot of sense why things are laid out as such.
+Nginx has great documentation. I was able to set up HTTPS with an SSL certificate from [CertBot](https://certbot.eff.org/). The process was straight forward.
+
 
 Conclusion
 ------------------------------
 
-Google is your friend. I will try to make these more like guides in the future.
+Documentation is your friend. I will try to make these more like guides in the future.

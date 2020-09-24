@@ -4,11 +4,11 @@ email:
   title: 'Email'
   fa-icon: 'fa-envelope'
 
-twitter:
-  id: 'ed_13'
-  href: 'https://twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter'
+#twitter:
+#  id: 'edwinzamud'
+#  href: 'https://twitter.com/'
+#  title: 'Twitter'
+#  fa-icon: 'fa-twitter'
 
 github:
   id: 'notedwin'
@@ -16,11 +16,11 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github'
 
-linkedin:
-  id: 'edwin-zamudio'
-  href: 'https://linkedin.com/in/'
-  title: 'LinkedIn'
-  fa-icon: 'fa-linkedin'
+#linkedin:
+#  id: 'edwin-zamudio'
+#  href: 'https://linkedin.com/in/'
+#  title: 'LinkedIn'
+#  fa-icon: 'fa-linkedin'
 
 instagram:
   id: 'edwin.aiv'
@@ -28,8 +28,14 @@ instagram:
   title: 'instagram'
   fa-icon: 'fa-instagram'
 
-bandcamp:
-  id: 'notedwin'
-  href: 'https://bandcamp.com/notedwin'
-  title: 'bandcamp'
-  fa-icon: 'fa-bandcamp'
+#bandcamp:
+#  id: 'notedwin'
+#  href: 'https://bandcamp.com/'
+#  title: 'bandcamp'
+#  fa-icon: 'fa-bandcamp'
+
+#leetcode:
+#  id: 'ezfire'
+#  href: 'https://leetcode.com/'
+#  title: 'Leetcode'
+#  fa-icon: 'fa-leetcode'
