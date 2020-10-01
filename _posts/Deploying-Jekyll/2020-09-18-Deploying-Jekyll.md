@@ -5,14 +5,14 @@ tags: [DevOps]
 description: Messing around with DevOps production. 
 ---
 
-- [What about you Old Website](#what-about-you-old-website)
+- [What about your old website](#what-about-your-old-website)
 - [New Website](#new-website)
 - [What is Nginx](#what-is-nginx)
 - [What is Jenkins](#what-is-jenkins)
 - [Other](#other)
 - [Conclusion](#conclusion)
 
-What about you Old Website
+What about your old website
 ---------------------
 
 For my old website, I used [Gatsby](https://www.gatsbyjs.com), which was easy to deploy thanks to [Vercel](https://vercel.com).

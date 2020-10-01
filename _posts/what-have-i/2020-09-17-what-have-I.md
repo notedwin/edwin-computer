@@ -1,6 +1,6 @@
 ---
 title: What have I learned.
-date: 2020-09-30 10:00:00 +07:00
+date: 2020-10-30 10:00:00 +07:00
 tags: [swag]
 description: hello
 ---
@@ -27,25 +27,7 @@ I really enjoy the shell, my second home, even if something has ana easier way o
 
 I maintain my home network with the college students, we dont blow through all our data but we do use alot of data(mainly me last month i used 500Gb yeah im not proud of that I need to get off the internet.)
 
-message to old friends: 
-Feel free to message me I dont really have that much going on okay maybe i do but im more willing to reply than i was a couple months ago.
-
-I have always kept my life private, heck i havent posted on social media in a couple months my friends probably think im dead or depressed. I a neither im health alive, purely vibing, jusst working on myself and overworking myself alot of the time(i wrote this while taking a break from the 3 assignements i have due at midnight)
-
-All the choices I have made are for the better of me. I amembarrased of the persona, I was but I am happy i was that person.
 
 I work at (Ideashop)[ideashop.iit.edu] as a web-developer, thats my title but rrealistically anything computer related I do. I used to work at [ots](https://ots.iit.edu).
 I planned on getting an internship but i know i was not prepared for that. We will try to get one summer 2021, i graduate in fall 2021 so hopefully that internship leads to a full time offer, even if i dont accept it It would be good to know that I am employable.
 Grinding leetcode and system design. 
-
-If anyone wants to fund me, i dont really need anything I have all my nessecities but buying a good camera is a huge expense, good being alive is expensive. 
-
-Guides:
-How to learn CS:
-There are alot of resources but dont get stuckk trying to learn one language and master it that isnt what cs is, its being able to decompose a problem into something you know how to attack.
-There is subjectivity in that staement but I truly beileve being able to decompose.
-
-Hobbies:
-Cooking
-
-

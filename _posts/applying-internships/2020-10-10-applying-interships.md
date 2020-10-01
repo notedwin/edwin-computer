@@ -1,31 +1,43 @@
 ---
-title: What am I up to these days?
-date: 2020-10-30 10:00:00 +07:00
-tags: [personal]
+title: Software Engineer Internships?
+date: 2020-10-30 2:00:00 +07:00
+tags: [career]
 description: hell[0]
 ---
-
-- [What am I taking this semester](#what-am-i-taking-this-semester)
-- [What am I learning](#what-am-i-learning)
+- [Preparing for interview](#preparing-for-interview)
+- [What is my process for finding internships to apply to?](#what-is-my-process-for-finding-internships-to-apply-to)
+- [Where do you find internships?](#where-do-you-find-internships)
 - [What are my main projects](#what-are-my-main-projects)
 - [What does my day look like](#what-does-my-day-look-like)
 - [Why did I share this](#why-did-i-share-this)
 
 
-I am current attending university. I have at most 2 semesters left.
+I am current looking for an intership for this winter or summer 2021.
 
-What am I taking this semester  
+Preparing for interview
 -------------------
 
--Physics I: These dam weedout classes
--Probability + Statistics: Math
--Technical Communication: Do speak ok?
--Ethical Hacking: networks and network tools
--Software Engineering: do u know agile? ok but do u really know waterfall?
+A sane person would start preparing by doing leetcode attending hackathons, networking, linkedin etc.
 
-This semester is easy compared to my other semesters. Someone should have stopped me from taking 18 credits every semester. LOL
+I attended one hackathon and realized its about having a diverse team and group of people you enjoy working with
+I worked with the rest of the catch all and I really didnt have too much fun some people over complicated the app that could have been simple and nice, I was just there to fuck around with react native.
 
-What am I learning
+After that I started making my personal website, at the time i stuck to pure HTML then JS then jekyll.
+
+Networking is fun if your working on soemthing intresting and can share ideas but going to a class work heavy school makes you mourn interaction.
+
+What is my process for finding internships to apply to?
+-------------------
+
+I am only looking for paid internships, if I had the monetary means I would have taken unpaid internships if I couldnt get paid internships as a freshman or sophmore. 
+Hey atleast you know.
+
+
+
+I current am using leetcode and famous algorithms.
+
+
+Where do you find internships?
 -----------------
 
 Apart from schools
