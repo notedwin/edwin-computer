@@ -1,6 +1,6 @@
 ---
 title: Deploying Jekyll using Nginx and Jenkins.
-date: 2020-09-18 10:00:00 +07:00
+date: 2020-10-18 10:00:00 +07:00
 tags: [DevOps]
 description: Messing around with DevOps production. 
 ---
