@@ -1,15 +1,9 @@
 ---
-
 title: Raspberry Pi 4 Home Server.
-
 date: 2020-11-18 10:00:00 +07:00
-
-tags: [Server][Raspberry-Pi]
-
+tags: [Raspberry-Pi]
 description: Nginx, Jenkins and other keywords
-
 ---
-
 ## Why do you need a home server?
 
 -------------------
@@ -19,7 +13,6 @@ I chose to host my websites locally for privacy concerns, cheapness to scale, ot
 ## What do you host?  
 
 I host a couple of web applications, a Jenkins dashboard, a couple of tools like cyberchef
-
 
 ## Why a blog post?
 
