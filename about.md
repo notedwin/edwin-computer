@@ -22,12 +22,6 @@ Here are a few technologies I can work with confidently:
 - SQL
 
 You can [report](http://github.com/edwin-computer/issues/new) if there is a broken link(s) or something else.
-
-## Services I recommend
-
-- [CanRestoration](https://www.canrestoration.com/)
-- [Marlena Draws](https://www.etsy.com/shop/marlenadraws)
-
 ## Tech:  
 [ThinkPad T480s](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T480s/p/22TP2TT480S) - Ubuntu 20.04, no modifications(yet).
 
