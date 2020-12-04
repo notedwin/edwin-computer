@@ -17,8 +17,9 @@ At a fundamental level, I am a fast learner and can adapt to any environment.
 Here are a few technologies I can work with confidently:
 
 - Python
-- C/C++
 - Java
+- C/C++
+- Linux
 - SQL
 
 You can [report](http://github.com/edwin-computer/issues/new) if there is a broken link(s) or something else.
@@ -41,4 +42,5 @@ It runs GTA5 thats all that matters to me.
 
 ## music:
 I by no means have good music taste, but I like what I like.
+
 <iframe src="https://open.spotify.com/embed/playlist/2urvXa9EjKllAy2TZxFq16" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
