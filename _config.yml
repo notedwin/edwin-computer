@@ -1,8 +1,7 @@
 # Site settings
 title: Edwin Zamudio # site title
 description: >- # site description
-  A student based in chicago. Writing about his experiences and blogging them to share.
-  <a href="https://github.com/notedwin" target="_blank" rel="noopener">@github</a>.
+  A computer science student based in chicago. Blogging his experiences.
 lang: en-US # default lang
 timezone: Chicago # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Edwin Zamudio # author name
   bio: >-
-    Tell the world.
+    Undergraduate CS @ IIT. Sharing my love for technology. 
     
   username: ezamudio # general username
   github: notedwin # github username
