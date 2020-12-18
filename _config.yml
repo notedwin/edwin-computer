@@ -4,7 +4,7 @@ description: >- # site description
   A computer science student based in chicago. Blogging his experiences.
 lang: en-US # default lang
 timezone: Chicago # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: /assets/favicons/favicon-96x96.png
 #repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -21,9 +21,11 @@ author:
   email: zamudio.e13@gmail.com" # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
+
+box-1: /assets/img/1.png
 # URL settings
 url: "https://edwin.computer" #
-baseurl:
+baseurl: 
 permalink: /:title/
 google_analytics: UA-158530133-1 # leave it blank if not wish
 fb_appid:

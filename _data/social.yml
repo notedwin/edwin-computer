@@ -16,11 +16,11 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github'
 
-#linkedin:
-#  id: 'edwin-zamudio'
-#  href: 'https://linkedin.com/in/'
-#  title: 'LinkedIn'
-#  fa-icon: 'fa-linkedin'
+linkedin:
+  id: 'edwin-zamudio'
+  href: 'https://linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin'
 
 instagram:
   id: 'edwin.aiv'
