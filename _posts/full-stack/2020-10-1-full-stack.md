@@ -1,5 +1,5 @@
 ---
-title: How do I teach myself Full-stack development?
+title: How do I get started with Full-stack development?
 date: 2020-10-1 10:00:00 +07:00
 tags: [career]
 description: hello nicolai
