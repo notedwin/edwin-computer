@@ -76,7 +76,7 @@
 
   .trigger {
     float: right;
-    padding-top: 10px;
+    
   }
 
   .menu-trigger {
@@ -396,18 +396,63 @@
   }
 }
 
+:root {
+  --background-color: #ddd;
+  --primary-text-color: #000;
+  --secondary-text-color: #333;
+  --link-text-color: #111;
+  --face-size: 256px;
+  --face-offset: calc(var(--face-size)/2);
+  --face-offset-reverse: calc(var(--face-size)/2*-1)
+}
+
+@-webkit-keyframes spin {
+  0% {
+      transform: rotateY(0) rotateX(0)
+  }
+
+  50% {
+      transform: rotateY(1turn) rotateX(180deg)
+  }
+
+  to {
+      transform: rotateY(2turn) rotateX(1turn)
+  }
+}
+
+@keyframes spin {
+  0% {
+      transform: rotateY(0) rotateX(0)
+  }
+
+  50% {
+      transform: rotateY(1turn) rotateX(180deg)
+  }
+
+  to {
+      transform: rotateY(2turn) rotateX(1turn)
+  }
+}
+
+section#visual {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline
+}
+
 #visual {
-  position: absolute;
-  top: -70px;
-  left: -70px;
-  height: var(--face-size);
+  float: right;
   transform: scale(0.25);
 }
+
 #cube,
 #cube img,
 #visual {
   width: var(--face-size);
 }
+
 #cube {
   position: relative;
   -webkit-animation: spin 10s linear infinite;
@@ -420,28 +465,35 @@
   user-select: none;
   pointer-events: none;
 }
+
 #cube img {
   position: absolute;
   height: var(--face-size);
 }
+
 #cube .face-1 {
   transform: translateZ(var(--face-offset));
 }
+
 #cube .face-3 {
   transform: translateZ(var(--face-offset-reverse)) rotateY(180deg);
 }
+
 #cube .face-2 {
   transform: rotateY(-270deg) translateX(var(--face-offset));
   transform-origin: top right;
 }
+
 #cube .face-4 {
   transform: rotateY(270deg) translateX(var(--face-offset-reverse));
   transform-origin: center left;
 }
+
 #cube .face-0 {
   transform: rotateX(-90deg) translateY(var(--face-offset-reverse));
   transform-origin: top center;
 }
+
 #cube .face-5 {
   transform: rotateX(90deg) translateY(var(--face-offset));
   transform-origin: bottom center;

@@ -23,6 +23,7 @@ author:
 
 
 box-1: /assets/img/1.png
+box-2: /assets/img/2.png
 # URL settings
 url: "https://edwin.computer" #
 baseurl: 
