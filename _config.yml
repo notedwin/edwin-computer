@@ -26,7 +26,7 @@ box-1: /assets/img/1.png
 box-2: /assets/img/2.png
 # URL settings
 url: "https://edwin.computer" #
-baseurl: /index/
+baseurl: 
 permalink: /:title/
 google_analytics: UA-158530133-1 # leave it blank if not wish
 fb_appid:
