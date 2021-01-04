@@ -39,3 +39,9 @@ instagram:
 #  href: 'https://leetcode.com/'
 #  title: 'Leetcode'
 #  fa-icon: 'fa-leetcode'
+
+spotify:
+  id: 'user/zamudio.e13?si=NYn_7WclQmmVBfb6wJ7xqA'
+  href: 'https://open.spotify.com/'
+  title: 'Spotify'
+  fa-icon: 'fa-spotify'

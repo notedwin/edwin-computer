@@ -1,7 +1,7 @@
 # Site settings
 title: Edwin Zamudio # site title
 description: >- # site description
-  A computer science student based in chicago. Blogging his experiences.
+  A computer science student based in chicago.
 lang: en-US # default lang
 timezone: Chicago # set your timezone
 image: /assets/favicons/favicon-96x96.png
@@ -12,7 +12,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Edwin Zamudio # author name
   bio: >-
-    Undergraduate CS @ IIT. Sharing my love for technology. 
+    Computer Science @ Illinois Tech. 
+    Documenting my experiences.
     
   username: ezamudio # general username
   github: notedwin # github username
@@ -20,7 +21,6 @@ author:
   facebook: facebook_username # facebook username
   email: zamudio.e13@gmail.com" # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
-
 
 box-1: /assets/img/1.png
 box-2: /assets/img/2.png

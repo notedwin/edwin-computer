@@ -6,6 +6,7 @@ excerpt: Howdy! I am Edwin Zamudio.
 comments: false
 ---
 
+[//]: <> (<img src="{{ site.author.avatar }}"/>)
 Howdy! I am Edwin Zamudio.
 
 I am currently studying computer science as an undergraduate student @ [Illinois Tech](https://www.iit.edu). I am actively seeking an internship where I can showcase my current skills, and further expand my skills set as a software developer.
