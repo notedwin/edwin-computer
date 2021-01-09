@@ -1,15 +1,3 @@
-email:
-  id: 'zamudio.e13@gmail.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope'
-
-twitter:
-  id: 'edwinzamud'
-  href: 'https://twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter'
-
 github:
   id: 'notedwin'
   href: 'https://github.com/'
@@ -22,11 +10,29 @@ linkedin:
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
 
-instagram:
-  id: 'edwin.aiv'
-  href: 'https://www.instagram.com/'
-  title: 'instagram'
-  fa-icon: 'fa-instagram'
+twitter:
+  id: 'edwinzamud'
+  href: 'https://twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter'
+
+spotify:
+  id: 'user/zamudio.e13?si=NYn_7WclQmmVBfb6wJ7xqA'
+  href: 'https://open.spotify.com/'
+  title: 'Spotify'
+  fa-icon: 'fa-spotify'
+
+email:
+  id: 'zamudio.e13@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope'
+
+#instagram:
+#  id: 'edwin.aiv'
+#  href: 'https://www.instagram.com/'
+#  title: 'instagram'
+#  fa-icon: 'fa-instagram'
 
 #bandcamp:
 #  id: 'notedwin'
@@ -39,9 +45,3 @@ instagram:
 #  href: 'https://leetcode.com/'
 #  title: 'Leetcode'
 #  fa-icon: 'fa-leetcode'
-
-spotify:
-  id: 'user/zamudio.e13?si=NYn_7WclQmmVBfb6wJ7xqA'
-  href: 'https://open.spotify.com/'
-  title: 'Spotify'
-  fa-icon: 'fa-spotify'
