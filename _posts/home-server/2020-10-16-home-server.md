@@ -4,15 +4,17 @@ date: 2020-11-18 10:00:00 +07:00
 tags: [Raspberry-Pi]
 description: Nginx, Jenkins and other keywords
 ---
+![hi](rasp-pi.jpg)
+
 ## Why do you need a home server?
 
 -------------------
 
-I chose to host my websites locally for privacy concerns, cheapness to scale, other keyword reasons but mainly because I can.
+I chose to host my websites locally for privacy concerns, cost, other keyword reasons but mainly because I can.
 
 ## What do you host?  
 
-I host a couple of web applications, a Jenkins dashboard, a couple of tools like cyberchef
+I host a couple of web applications, a Jenkins dashboard, a couple of tools like cyberchef.
 
 ## Why a blog post?
 
@@ -28,11 +30,11 @@ I had the idea to do this because I was switching from a raspberry pi 3b to a ra
 
 This might not seem like a big change but I gained 3GB of ram and a giga-byte port.
 
-I planned on booting from a usb 3.1 SSD but raspberry pi 4 doesnt come with usb boot enabled by default so I had to update the EEPROM. 
+I planned on booting from a usb 3.1 SSD but raspberry pi 4 doesn't come with usb boot enabled by default so I had to update the EEPROM. 
 
-Luckily, raspian I was running on my old server is compatiable with my new raspberry pi. I backed up my files before this as I didnt know if it was actually going to work.
+Luckily, raspbian I was running on my old server is compatible with my new raspberry pi. I backed up my files before this as I did not know if it was actually going to work.
 
-After enabling USB boot, I installed raspian on the SSD. Any operating system compatible with arm7 works.
+After enabling USB boot, I installed raspbian on the SSD. Any operating system compatible with arm7 works.
 
 
 

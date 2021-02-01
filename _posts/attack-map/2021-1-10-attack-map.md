@@ -1,7 +1,7 @@
 ---
 title: Geolocating SSH Hackers in Real Time.
 date: 2021-12-25 10:00:00 +07:00
-tags: learning
+tags: [software engineering]
 description: DeDRM
 ---
 
