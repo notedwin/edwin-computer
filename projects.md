@@ -31,7 +31,6 @@ My blog posts outline a focus on infastructure. I have a raspberry pi running Ng
 
 My projects have a focus  
 
-
 {% for image in site.static_files %}
     {% if image.path contains 'images/slider' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />

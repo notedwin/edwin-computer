@@ -29,5 +29,9 @@ I can easily map the lat and longitude using flask.
 
 
 
+Due to limitations of python, I had to use javascript in this scenario. I wanted a live updating map not a fully rerender map.
+
+
+
 # Where did I mess up. I spent so much time looking at different ways to visualize the data that I did not realize rsyslog did not work on my raspberry pi. To e fair i had to download it from an openssue repo.
 
