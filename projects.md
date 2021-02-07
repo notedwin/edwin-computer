@@ -5,31 +5,34 @@ layout: page
 excerpt: random projects
 comments: false
 ---
-Personal project that did not end up working out  
-[attack map](https://github.com/notedwin/attack-map)  
+## Cyberattack Map
 
-This project had to many complications. I wanted to use rsyslog but I was having a hard time getting it to run. Everything is outlined in this blog post. 
+[Github repository](https://github.com/notedwin/attack-map)
 
+I wanted to generate a world map that showed all the people who were trying to break into my raspberry pi that hosts this website.
 
-Another personal project is "Interview practice", It is only called that because I have not had time to clean out the directory. If it aint broke don't fix it.  
-["Interview Practice"](https://github.com/notedwin/interview-practice)  
+This project took me a long time due to many complications. I wanted to use rsyslog but I was having a hard time getting it to run. There will be a blogpost describing the complete process.
 
-I work with different api, modules, websites. I solve problems from project euler, leetcode, or just some daily dilemmna that I can solve with programming.
+## Online Grocery Store
 
 Project for my database organization class.  
-[grocery-store repo](https://github.com/notedwin/GroceryStore)  
+[Github Repository](https://github.com/notedwin/GroceryStore)  
+
+## Online Restaurant Application
 
 Project for my software engineering class.  
-[restaurant live](https://restaurant.edwin.computer)  
-[restaurant repo](http://github.com/notedwin/restaurant-app)
+[Live website](https://restaurant.edwin.computer)  
+[Github Repository](http://github.com/notedwin/restaurant-app)
 
+This repository serves as my catch all: ["Interview Practice"](https://github.com/notedwin/interview-practice)  
 
-My gaudy website. I'll make sure to host it for historical purposes.  
+I work with different api, modules, websites. I solve problems from project euler, leetcode, or just some daily dilemma that I can solve with programming.
 
-[old website](https://github.com/notedwin/personal-website)  
-My blog posts outline a focus on infastructure. I have a raspberry pi running Nginx to show my webpages and Jenkins to automate building the websites from github.  
+## Old website
 
-My projects have a focus  
+[Github Repository](https://github.com/notedwin/personal-website)
+
+My gaudy website. I'll make sure to host it for historical purposes. 
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/slider' %}
