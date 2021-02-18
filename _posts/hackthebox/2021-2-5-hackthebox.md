@@ -1,6 +1,6 @@
 ---
 title: "Computer Security: HackTheBox,DVWA,Kali"
-date: 2021-2-15 10:00:00 +07:00
+date: 2021-2-21 10:00:00 +07:00
 tags: [computer-sec]
 description: hello nick
 ---
