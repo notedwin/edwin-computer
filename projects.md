@@ -15,7 +15,9 @@ comments: false
 
 I wanted to generate a world map that showed all the people who were trying to break into my raspberry pi that hosts this website.
 
-This project took me a long time due to many complications. I wanted to use rsyslog but I was having a hard time getting it to run. There will be a blogpost describing the complete process.
+This project took many iterations due to complications but I have a working product now.
+
+[Blog Post for Cyber Attack Map](https://edwin.computer/attack-map/)
 
 ## Online Grocery Store
 

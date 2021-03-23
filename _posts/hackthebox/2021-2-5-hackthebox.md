@@ -1,6 +1,6 @@
 ---
-title: "Computer Security: HackTheBox,DVWA,Kali"
-date: 2021-2-28 10:00:00 +07:00
+title: "Computer Security: HackTheBox and CTF"
+date: 2021-7-28 10:00:00 +07:00
 tags: [computer-sec]
 description: hello nick
 ---

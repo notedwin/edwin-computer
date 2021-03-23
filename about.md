@@ -7,22 +7,18 @@ comments: false
 ---
 
 [//]: <> "<img src="{{ site.author.avatar }}"/>"
-Howdy! I am Edwin Zamudio.
+Howdy! I am Edwin.
 
-I am currently studying computer science as an undergraduate student @ [Illinois Tech](https://www.iit.edu). I am actively seeking an internship where I can showcase my current skills, and further expand my skills set as a software developer.
+I am a senior studying Computer Science at [Illinois Tech](https://www.iit.edu).  
 
-I have multiple years of programming experience in C, Java, Python. I love working with Python and Linux. I am currently interested in distribution computing.
+I am actively seeking an full-time software engineering position to start after May 2022 where I can showcase my current skills, and further expand my skills set as a software engineer.
 
-At a fundamental level, I am a fast learner and can adapt to any environment.
+During the school semesters, I keep myself busy by working on multiple production Flask applications for Illinois Tech's Idea Shop which helps manage students at our campus maker space. If I am not working at the Idea Shop, I am working on personal projects or attending hackathons.  
 
-Here are a few technologies I can work with confidently:
+I’m interested in improving the efficiency, scalability and security of back-end applications and infrastructure.  
 
-- Python
-- Linux
-- SQL
-- JavaScript
-- Java
-- C/C++
+I have multiple years of programming experience in C, Java, Python. I love working with Python and Linux.  
+
 
 You can [report](http://github.com/notedwin/edwin-computer/issues/new) if there is a broken link(s) or something else.
 ### Tech:
@@ -31,5 +27,4 @@ You can [report](http://github.com/notedwin/edwin-computer/issues/new) if there 
 
 I5-6600k with GTX970 Desktop. 
 
-IPhone 4
-
+IPhone 4s

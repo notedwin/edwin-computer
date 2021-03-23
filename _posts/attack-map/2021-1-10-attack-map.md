@@ -1,37 +1,65 @@
 ---
 title: Geolocating SSH Hackers in Real Time.
-date: 2021-12-25 10:00:00 +07:00
-tags: [software engineering]
+date: 2021-3-22 10:00:00 +07:00
+tags: [cyber-security]
 description: DeDRM
 ---
+
+*This is a blog post for my cyber-attack map project*  
+*Post is also WIP: Work in Progress*
 
 ## HACKERS?
 
 ![hacking](hacker.gif)
 
-## Okay maybe not the sterotypical hackers.
 
-## Before I show what I attempetd I would like to clarify SSH.
+<div class="embed-responsive">
+<embed src="https://map.edwin.computer">
+</div>
+[Github repository](https://github.com/notedwin/attack-map)
 
-SSH stands for secure shelll which is often used to allow computers to talk to eachother. SSH is used to access remote machines and administration tasks.
 
-Most devices are not vunerable to SSH attacks but if you open up a port to allow remote acces syou could have someone running a SSH brute force attack.
 
+
+## Okay maybe not the stereotypical hackers.  
+
+What do I mean by hackers then? Well, It could be a variety of people usually it is just someone who is using a script that sends a SSH login request using popular logins such as "pi":"raspberry
+
+## What is SSH?
+
+SSH stands for secure shell which is often used to allow computers to talk to each other. SSH is used to access remote machines and administration tasks.
+
+Most devices are not vulnerable to SSH attacks, due to firewall and having to enable remote access manually.
+If you open up a port and allow remote access, you could have someone trying to SSH (brute force) attack your machine.
 
 
 # How do I know who is trying to hack me?
 
-Logs. Logs capture verything that changes in the system. For our specific scenario we have /var/log/auth.log that captures all of our attackers.
-
-There are differnt ways we can then show this graphically so I skipped sending the logs, which my downfall.
-
-I can easily map the lat and longitude using flask.
+Logs. Logs capture everything that changes in the system. For our specific scenario we have /var/log/auth.log that captures all of our attackers.
 
 
+# Steps of Application
 
-Due to limitations of python, I had to use javascript in this scenario. I wanted a live updating map not a fully rerender map.
+- Someone tries logging in via SSH
+- Failed attempt
+- Syslog sends a message to my Node Server
+- Node then takes the IP address and uses a IP geo-location API
+- Once that requests is return, we can parse the data
+- Node maps the machine along with other data from Syslog message such as username, port and IP address
 
 
+# how did you send logs?
 
-# Where did I mess up. I spent so much time looking at different ways to visualize the data that I did not realize rsyslog did not work on my raspberry pi. To e fair i had to download it from an openssue repo.
+![rsyslog](rsyslog.png)
+
+# Going Foward
+
+I expect to modify this project back-end and front-end in the upcoming months. This project gave me good exposure to NodeJs and Express.
+
+# What kind of issues did you run into?
+I ran into issues with rsyslog due to it not being supported on ARM8 architecture so I had to use a different raspberry pi.
+This makes it easier to be secure while doing this project due the fact that none of my other projects are on this raspberry pi.
+Also, I can later add a real honey pot on this server.
+I had issues with my CI/CD, I forgot to shutdown the node instance everytime I built the node app which meant I had port 3000 is in use errors but jenkins didn't consider that an error(LOL).
+I am not as good in Javascript as I am in Python or Java.
 

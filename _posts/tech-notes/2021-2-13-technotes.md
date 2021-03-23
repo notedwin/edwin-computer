@@ -1,6 +1,6 @@
 ---
 title: "Tech Notes: ideas that are forgotten"
-date: 2021-2-28 10:00:00 +07:00
+date: 2021-7-28 10:00:00 +07:00
 tags: [software]
 description: hello edwin
 ---

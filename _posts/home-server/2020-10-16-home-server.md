@@ -79,3 +79,7 @@ sudo apt install jenkins
 sudo visudo /etc/sudoers.d/010_pi-nopasswd
 change nopasswd to passwd 
 ```
+
+
+## Update 3/21/2021
+Looking to transferring to AWS or maybe using a load balancer. IDK
